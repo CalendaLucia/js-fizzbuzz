@@ -1,0 +1,27 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100%;
+    max-width: 100%;
+    background-color: seagreen ;
+    margin: 0 auto;
+    
+    
+}
+
+.box {
+    width: 70px;
+    height: 70px;
+    background-color:lawngreen;
+    border: 1px solid black;
+    margin: 10px 10px;
+    color: black;
+}
+
